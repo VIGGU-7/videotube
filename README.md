@@ -31,7 +31,7 @@ A Node.js + Express backend for a YouTube-like video platform, supporting user a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/videotube-backend.git
+git clone https://github.com/VIGGU-7/videotube-backend.git
 cd videotube-backend
 ```
 
